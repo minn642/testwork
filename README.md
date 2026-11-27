@@ -30,6 +30,7 @@
 [홈페이지](https://minn642.github.io/testwork/)
 
 ## 5.코드처리사항
+<!-- 주석입니다. 주석. -->
 ```python
 print("Hello World");
 arr[1,2,3,4,5]
