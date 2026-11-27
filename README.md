@@ -27,7 +27,7 @@
 - [ ] 웹개발 
 
 ## 4.참고사항
-[홈페이지].(https://minn642.github.io/testwork/)
+[홈페이지]_(https://minn642.github.io/testwork/)
 
 ## 5.코드처리사항
 ```python
